@@ -10,7 +10,7 @@
 # When can I use it?
 - I want to share Twitter comments on slides during presentations such as study sessions.
 
-<img width="600" alt="image" src="https://i.imgur.com/dWEFTcR.png">
+<img width="600" alt="image" src="https://i.imgur.com/saP0Nhk.png">
 
 - I want to display Twitter when watching live broadcasts on a personal computer.
 

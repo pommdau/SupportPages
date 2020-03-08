@@ -10,7 +10,7 @@
 # こんなときに使える！
 - 勉強会などのプレゼンテーションの際に、スライド上にツイッターのコメントを流したい。
 
-<img width="600" alt="image" src="https://i.imgur.com/d7LdCcK.png">
+<img width="500" alt="image" src="https://i.imgur.com/L4cjkjp.png">
 
 - パソコンで生放送を見ているときに、ツイッターを表示したい。
 
