@@ -1,59 +1,33 @@
 # たずね人コンパスのサポートページ
 
-![Icon_master](https://i.imgur.com/grzILMv.png)
+<img width="100" alt="image" src="https://i.imgur.com/grzILMv.png">
 
 # どんなアプリ？
-- 目的地までの方角と距離を案内するアプリです。
+- 目的地までの方角と距離をひと目で分かるように表示します！
 
+<img width="400" alt="image" src="https://i.imgur.com/TNvpEKg.jpg">
 
-
-# こんなときに使える！
-- 勉強会などのプレゼンテーションの際に、スライド上にツイッターのコメントを流したい。
-
-<img width="600" alt="image" src="https://i.imgur.com/wsmbcil.png">
-
-- パソコンで生放送を見ているときに、ツイッターを表示したい。
-
-<img width="600" alt="image" src="https://i.imgur.com/4coah11.png">
+# こんなあなたへオススメ
+- とりあえず大体の場所にいければ、あとは現地でなんとかなる方
+- 歩きスマホをしたくないけど、地図を見ないと不安な方
 
 # 使い方
-## ログインの仕方
-- 初回起動時にログイン画面が表示されます。
-- `ログイン`ボタンを押下し、アプリにツイッターへのアクセスを許可してください。
+- 地図上で行きたい場所を長押しすると、目的地を設定できます。
 
-<img width="400" alt="image" src="https://i.imgur.com/yubrevJ.jpg">
+<img width="400" alt="image" src="https://i.imgur.com/250tbN2.jpg">
 
-<img width="600" alt="image" src="https://i.imgur.com/X6eSh1a.jpg">
+- 目的地を語句または住所で検索することが可能です
 
-![](https://i.imgur.com/Xc9u6ma.jpg)
+<img width="400" alt="image" src="https://i.imgur.com/oRSn1xE.jpg">
 
-- ツイートが表示されれば、ログイン成功です。
+# 設定
+- 設定からコンパスの外観を変更できます。
 
-<img width="600" alt="image" src="https://i.imgur.com/LKBMW3G.jpg">
-
-## 設定の変更
-
-- 設定ウィンドウは、メニューやDockの右クリックから、もしくは`Commant`+`,`で表示できます。
-
-<img width="300" alt="image" src="https://i.imgur.com/Tijy46X.jpg">
-
--------------------------------------------------------------------
-
-<img width="300" alt="image" src="https://i.imgur.com/VjMbLWQ.jpg">
-
-- 設定から、検索語句を変更したりUIの変更（タイトルバーを消す等）を行えます。
-
-<img width="400" alt="image" src="https://i.imgur.com/1rr6qUX.jpg">
-
-- また、コメント（左の画面）やリスト（右の画面）に表示する文字のフォーマットを変更できます。
-
-<img width="400" alt="image" src="https://i.imgur.com/zcqbgTc.jpg">
-
-<img width="400" alt="image" src="https://i.imgur.com/qo0EiBi.jpg">
-
-# 注意点
-- 表示されるツイートは、最新の10ツイート（5秒当たり）までとなっています。
+<img width="400" alt="image" src="https://i.imgur.com/d0Y1hf6.jpg">
 
 # コンタクト
-- 感想・意見・要望等がありましたら、TwitterのDMまでご連絡お願いします！
+- 感想・意見・要望等がありましたら、Twitterまでご連絡お願いします！
     - https://twitter.com/ikeh1024
+
+    
+    
